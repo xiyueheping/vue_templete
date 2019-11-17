@@ -14,4 +14,4 @@
   - 2.全局安装webpack webpack-cli 
   - 3.安装axios jquery 
   - 4.在项目根目录打开powershell，执行cnpm install安装package.json文件中的所有依赖模块 
-  - 5.执行npm run dev运行整个项目或执行webpack对源码打包在点击public中html文件运行项目
+  - 5.执行npm run dev运行整个项目或执行webpack对源码打包再点击public中html文件运行项目
